@@ -23,5 +23,8 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=huhong12345)
 
+[![MaximeHu's github stats](https://github-readme-stats.vercel.app/api?username=huhong12345)](https://github.com/huhong12345/github-readme-stats)
+
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=${huhong12345})
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=${huhong12345}&hide=ipynb,html&layout=compact)
