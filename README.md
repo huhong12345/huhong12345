@@ -12,7 +12,8 @@
 - ✍🏻 Update my blog irregularly, mainly covering personal thoughts and learning summary 📝.
 - 🚀 Full of energy and curiosity, willing to communicate and collaborate with others 👯.
 
-https://img.shields.io/badge/Hey!-Bro~-red
+<div align=center><img src="https://img.shields.io/badge/Hey!-Bro~-red"/></div>
+
                                                         
 
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=huhong12345"/></div>
