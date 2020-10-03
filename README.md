@@ -7,7 +7,7 @@
 ###  ✍🏻 Update my blog irregularly, mainly covering personal thoughts and learning summary.
 ###  😄 Full of energy and curiosity, looking forward to collaborate with anyone like me 👯. 
 
-<div align=center><img width="150" height="150" src="https://github.com/huhong12345/huhong12345/blob/main/page.png"/></div>
+<div align=center><img src="https://github.com/huhong12345/huhong12345/blob/main/page.png"/></div>
 
 <!--**Mayandev/Mayandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
