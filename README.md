@@ -4,8 +4,8 @@
 - 🎓 Bachelor of Electronic& Information Engineering.
 - 🌱 Current research intersts are games and evolutionary dynamics on social networks.
 - 📚 Enjoy photography, history, traditional poetry and movies a lot.(refering to my blog🤪)
-- ✍🏻 Update my blog irregularly, mainly refering to personal thoughts and learning summary.
-- 😄 Full of energy and curiosity, looking to collaborate with someone like me 👯. 
+- ✍🏻 Update my blog irregularly, mainly covering personal thoughts and learning summary.
+- 😄 Full of energy and curiosity, looking forward to collaborate with anyone like me 👯. 
 
 <!--**Mayandev/Mayandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
