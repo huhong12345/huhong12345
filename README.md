@@ -3,12 +3,12 @@
 <div align=center><img width="800" src="https://github.com/huhong12345/huhong12345/blob/main/page.png"/></div>
 
 
-###  🧐 I’m a first-year PhD Student in the department of Automation.
-###  🎓 Bachelor of Electronic& Information Engineering.
-###  🌱 Current research intersts are games and evolutionary dynamics on social networks.
-###  📚 Enjoy photography, history, poetry and movies a lot.(refering to my blog🤪)
-###  ✍🏻 Update my blog irregularly, mainly covering personal thoughts and learning summary.
-###  😄 Full of energy and curiosity, looking forward to collaborate with anyone like me 👯. 
+####     🧐 I’m a first-year PhD Student in the department of Automation.
+####     🎓 Bachelor of Electronic& Information Engineering.
+####     🌱 Current research intersts are games and evolutionary dynamics on social networks.
+####     📚 Enjoy photography, history, poetry and movies a lot.(refering to my blog🤪)
+####     ✍🏻 Update my blog irregularly, mainly covering personal thoughts and learning summary.
+####     😄 Full of energy and curiosity, looking forward to collaborate with anyone like me 👯. 
 
 
 
