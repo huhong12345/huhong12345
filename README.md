@@ -12,7 +12,7 @@
 - ✍🏻 Update my blog irregularly, mainly covering personal thoughts and learning summary 📝.
 - 🚀 Full of energy and curiosity, willing to communicate and collaborate with others 👯.
 
-<div align=center><img src="https://img.shields.io/badge/Hey!-Bro~-red"/><img src="https://img.shields.io/circleci/build/github/RedSparr0w/node-csgo-parser.svg"/><img src="https://img.shields.io/badge/style-plastic-green?logo=appveyor&style=plastic"/></div>
+<div align=center><img src="https://img.shields.io/badge/Hey!-Bro~-red"/><img src="https://img.shields.io/circleci/build/github/RedSparr0w/node-csgo-parser.svg"/><img src="https://img.shields.io/badge/downloads-117-green"/></div>
 
                                                         
                                                         
