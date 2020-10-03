@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<div align=center><img width="800" src="https://github.com/huhong12345/huhong12345/blob/main/page.png"/></div>
+<div align=center><img width="800" src="https://github.com/huhong12345/huhong12345/blob/main/page2.png"/></div>
 
 
 
