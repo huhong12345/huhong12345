@@ -7,8 +7,8 @@
 ####     🎓 Bachelor of Electronic& Information Engineering.
 ####     🌱 Current research intersts are games and evolutionary dynamics on social networks.
 ####     📚 Enjoy photography, history, poetry and movies a lot.(refering to my blog🤪)
-####     ✍🏻 Update my blog irregularly, mainly covering personal thoughts and learning summary.
-####     😄 Full of energy and curiosity, looking forward to collaborate with anyone like me 👯. 
+####     ✍🏻 Update my blog irregularly, mainly covering personal thoughts and learning summary 📝.
+####     🚀 Full of energy and curiosity, looking forward to collaborate and communicate with others👯. 
 
 
 
