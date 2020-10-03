@@ -1,5 +1,5 @@
 # Hello there 👋
-;![image](https://github.com/huhong12345/huhong12345/blob/main/page.png)
+
 <div align=center><img width="800" src="https://github.com/huhong12345/huhong12345/blob/main/page.png"/></div>
 ###  🧐 I’m a first-year PhD Student in the department of Automation.
 ###  🎓 Bachelor of Electronic& Information Engineering.
@@ -11,7 +11,7 @@
 
 
 <!--**Mayandev/Mayandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+;![image](https://github.com/huhong12345/huhong12345/blob/main/page.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://github-readme-stats.vercel.app/api?username=huhong12345)
 -->
 <div align=center><img src="https://github-readme-stats.vercel.app/api?username=huhong12345"/></div>
 
-![](https://github-readme-stats.vercel.app/api?username=huhong12345)
+
